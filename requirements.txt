@@ -7,3 +7,5 @@ python-docx       # For DOCX file reading
 docx2txt          # Optional alternative for DOCX
 tiktoken          # For OpenAI tokenization
 numpy
+langchain-community
+
